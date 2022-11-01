@@ -5,7 +5,10 @@
   "name": "json_the_cat",
   "version": "1.0.0",
   "main": "breedFetcher.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
