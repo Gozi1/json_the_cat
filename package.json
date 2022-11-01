@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "name": "json_the_cat",
+  "version": "1.0.0",
+  "main": "breedFetcher.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gozi1/json_the_cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gozi1/json_the_cat/issues"
+  },
+  "homepage": "https://github.com/Gozi1/json_the_cat#readme",
+  "description": ""
+}
